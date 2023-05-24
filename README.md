@@ -2,11 +2,11 @@
 
 ## I'm a Student | Designer | Developer | ML enthusiast
 - 💻 Pursuing B.Tech in CS (AI specialisation)
-- 🎨 Experienced Graphic designer, starting out with UX/UI design
+- 🎨 Experienced Graphic designer, UX/UI design
 - 👨🏻‍💻 Currently trying to master full stack Web-development
 - 📄 Working on a ML research paper with [AIRG,NSUT][AIRGinsta]
 - 🌱 Starting out with open-source development
-- ⚡️ Hobbies ~ music, outings, debating, listening philosipical podcasts.
+- ⚡️ Hobbies ~ music, outings, debating, podcasts.
 
 
  [![Laksshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laksshay-Sehrawat&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
