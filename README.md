@@ -9,8 +9,6 @@
 - ⚡️ Hobbies ~ music, outings, debating, podcasts.
 
 
- [![Laksshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Laksshay-Sehrawat&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Connect with me - 
 
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/laksshay-sehrawat-20b0a9220/#gh-light-mode-only)
