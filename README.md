@@ -1,10 +1,9 @@
 # Hi there, I'm Laksshay :)
 
 ## I'm a Student | Designer | Developer | ML enthusiast
-- 💻 Pursuing B.Tech in CS (AI specialisation)
+- 💻 Pursuing B.Tech in CS (AI specialization)
 - 🎨 Experienced Graphic designer, UX/UI design
 - 👨🏻‍💻 Currently trying to master full stack Web-development
-- 📄 Working on a ML research paper with [AIRG,NSUT][AIRGinsta]
 - 🌱 Starting out with open-source development
 - ⚡️ Hobbies ~ music, outings, debating, podcasts.
 
