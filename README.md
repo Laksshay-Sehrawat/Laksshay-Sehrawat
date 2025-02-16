@@ -1,12 +1,4 @@
-# Hi there, I'm Laksshay :)
-
-## I'm a Student | Developer | ML/AI
-- 💻 Pursuing B.Tech in CS (AI specialization)
-- 🤖 Worked on many Deep Learning/ML research and internship projects.
-- 👨🏻‍💻 Currently trying to master full stack web development
-- 🌱 Starting out with open-source development
-- ⚡️ Hobbies ~ music, outings, debating, podcasts.
-
+# Hi there, I'm Laksshay
 
 ## Connect with me - 
 
@@ -16,7 +8,6 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/laksshay_sehrawat#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/laksshay_sehrawat#gh-dark-mode-only)
 
-## Fimiliar with - 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
