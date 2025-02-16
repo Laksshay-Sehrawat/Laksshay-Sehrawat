@@ -1,7 +1,5 @@
 # Hi there, I'm Laksshay
 
-## Connect with me - 
-
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/laksshay-sehrawat-20b0a9220/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/laksshay-sehrawat-20b0a9220/#gh-dark-mode-only)
 &nbsp;&nbsp;
